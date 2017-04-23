@@ -6,11 +6,11 @@
 /*
  * Delete.java
  *
- * Created on Jan 28, 2013, 1:19:35 PM
+ * Created on Apr 16, 2017, 1:19:35 PM
  */
 /**
  *
- * @author Aronzx
+ * @author shaurya96
  */import java.sql.*;
  import javax.swing.*;
 public class Delete extends javax.swing.JFrame {
